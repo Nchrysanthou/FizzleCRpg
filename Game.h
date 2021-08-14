@@ -5,6 +5,4 @@ void ClearInputBuffer();
 
 void GameLoop();
 
-
 #endif
-
